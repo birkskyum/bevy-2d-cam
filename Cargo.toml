@@ -1,5 +1,5 @@
 [package]
-name = "bevy-slippy-map"
+name = "bevy-2d-cam"
 version = "0.1.0"
 edition = "2021"
 
