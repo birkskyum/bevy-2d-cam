@@ -1,5 +1,5 @@
 [package]
-name = "bevy-2d-cam"
+name = "bevy_ortho_cam"
 version = "0.1.0"
 edition = "2021"
 

@@ -187,13 +187,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "bevy-2d-cam"
-version = "0.1.0"
-dependencies = [
- "bevy",
-]
-
-[[package]]
 name = "bevy_app"
 version = "0.5.0"
 source = "git+https://github.com/bevyengine/bevy?rev=c04dfc1174729781219c257fdd1e379a2f1a1a52#c04dfc1174729781219c257fdd1e379a2f1a1a52"
@@ -437,6 +430,13 @@ source = "git+https://github.com/bevyengine/bevy?rev=c04dfc1174729781219c257fdd1
 dependencies = [
  "bevy_reflect",
  "glam",
+]
+
+[[package]]
+name = "bevy_ortho_cam"
+version = "0.1.0"
+dependencies = [
+ "bevy",
 ]
 
 [[package]]
