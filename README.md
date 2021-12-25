@@ -1,3 +1,3 @@
-# bevy-2d-cam
+# bevy-ortho-cam
 
 Zoom / Pan in orthographic cam
